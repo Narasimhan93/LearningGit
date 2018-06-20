@@ -1,2 +1,2 @@
 # LearningGit
-Sample repo to explore
+Sample repo to exploring!
