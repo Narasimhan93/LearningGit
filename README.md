@@ -1,2 +1,4 @@
-# LearningGit
-Sample repo to exploring! tada
+# LearningGi
+
+Sample repo to explore..whats this
+
