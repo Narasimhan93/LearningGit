@@ -1,1 +1,2 @@
-var v = 'a';
+var v = a;
+// some other change
