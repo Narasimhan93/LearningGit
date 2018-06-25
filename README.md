@@ -1,2 +1,4 @@
-# LearningGit
-Sample repo to explore
+# LearningGi
+
+Sample repo to explore..whats this... so let us make changes
+
